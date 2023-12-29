@@ -1,0 +1,6 @@
+[submodule "jenkins-library"]
+	path = jenkins-library
+	url = https://github.com/r-dvl/jenkins-library
+[submodule "ansible-playbooks"]
+	path = ansible-playbooks
+	url = https://github.com/r-dvl/ansible-playbooks
